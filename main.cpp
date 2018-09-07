@@ -1,10 +1,7 @@
 #include <iostream>
 
 int main() {
-    int a = 7;
-    std::cout << a+3 << std::endl;
-    std::cout << a-3 << std::endl;
-    std::cout << a*3 << std::endl;
-    std::cout << a/3 << std::endl;
+    char c = 96;
+    std::cout << c;
     return 0;
 }
